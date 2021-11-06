@@ -10,7 +10,8 @@ Our system mainly provides the following services.
 2. Register schedule for crawl and view maintenance.
 
 Overall Architecture of Our System
-<img width="573" alt="overall_architecture" src="https://user-images.githubusercontent.com/13589283/140601538-9ebc134e-0e55-404e-9929-c231295de423.png">
+
+<img width="400" height="600" alt="overall_architecture" src="https://user-images.githubusercontent.com/13589283/140601538-9ebc134e-0e55-404e-9929-c231295de423.png">
 
 
 Link for each repository
