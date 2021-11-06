@@ -22,10 +22,10 @@ Link for each repository
 <br>
 <br>
 
-Overall Architectures of Our System
+Overall Architectures
 <br>
 <img width="400" height="500" alt="overall_architecture" src="https://user-images.githubusercontent.com/13589283/140601538-9ebc134e-0e55-404e-9929-c231295de423.png">
 
-Overall Architectures of Our System with Implementaion
+Overall Architectures with Implementaion
 <br>
 <img width="500" height="300" alt="overall_architecture" src="https://user-images.githubusercontent.com/13589283/140601624-d8bd5686-a8a9-4d40-baf9-c6376fb3c1cb.jpg">
