@@ -14,7 +14,6 @@ Our system mainly provides the following services through the GUI.
 <br>
 
 You can find detailed explanations and examples in each repository.
-Link for each repository
 - Master: https://github.com/SML0127/pse-driver
 - Worker: https://github.com/SML0127/pse-worker
 - GUI: https://github.com/SML0127/pse-extension
