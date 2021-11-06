@@ -7,7 +7,8 @@ This is a root github repository for Distributed Web Crawler and Data Management
 
 Our system mainly provides the following services through the GUI. 
 
-- Crawl and parse in distributed environment.
+- Easily Create and manage workflow for crawling.
+- Crawl and parse in a distributed environment.
 - View maintenance in database and target sites.
 - Register schedule for crawl and view maintenance.
 
