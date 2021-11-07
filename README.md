@@ -2,9 +2,6 @@ Distributed Web Crawler and Data Management System for Web Data
 =============
 
 ### This is a root github repository for Distributed Web Crawler and Data Management System for Web Data.
-
-<br>
-
 ### Our system mainly provides the following services through the GUI. 
 
 - Easily Create and manage workflow for crawling.
