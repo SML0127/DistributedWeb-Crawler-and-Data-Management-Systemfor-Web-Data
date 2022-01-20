@@ -14,9 +14,8 @@
 <br>
 
 ------------
-=============
 
-### This is a root github repository for an end-to-end system for extracting, maintaining, and publishing data on the web.
+### It is a root github repository for an end-to-end system for extracting, maintaining, and publishing data on the web.
 ### Our system mainly provides the following services through the GUI. 
 
 - Easily Create and manage workflow for crawling.
