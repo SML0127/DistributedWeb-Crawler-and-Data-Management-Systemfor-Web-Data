@@ -1,4 +1,6 @@
 # Distributed Web Crawler and Data Management System for Web Data
+It is a root github repository for an end-to-end system for extracting, maintaining, and publishing data on the web.   
+Using our system, we have crawled and managed about <b> 70K product data </b> on e-commerce sites such as <b> amazon, ebay, rakuten, and jomashop</b>.
 
 ## Tech Stack
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -18,13 +20,14 @@
 
 ------------
 
-### It is a root github repository for an end-to-end system for extracting, maintaining, and publishing data on the web.
-### Our system mainly provides the following services through the GUI. 
+## Our system mainly provides the following services through the GUI. 
 
 - Easily Create and manage workflow for crawling.
 - Crawl and parse in a distributed environment.
 - View maintenance in database and target sites.
 - Register schedule for crawl and view maintenance.
+
+
 
 <br>
 
